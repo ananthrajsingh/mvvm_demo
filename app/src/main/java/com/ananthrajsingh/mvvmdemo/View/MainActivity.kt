@@ -1,7 +1,8 @@
-package com.ananthrajsingh.mvvmdemo
+package com.ananthrajsingh.mvvmdemo.View
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.ananthrajsingh.mvvmdemo.R
 
 class MainActivity : AppCompatActivity() {
 
